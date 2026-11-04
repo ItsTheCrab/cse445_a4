@@ -28,7 +28,7 @@
 									<xs:sequence>
 
 										<xs:element name="Number"
-													type="xs:string" />
+													type="xs:integer" />
 										<xs:element name="Street"
 													type="xs:string" />
 										<xs:element name="City"
@@ -36,7 +36,7 @@
 										<xs:element name="State"
 													type="xs:string" />
 										<xs:element name="Zip"
-													type="xs:string" />
+													type="xs:integer" />
 
 									</xs:sequence>
 									<!-- closest airport to the national park -->
